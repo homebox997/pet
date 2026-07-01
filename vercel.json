@@ -1,6 +1,3 @@
 {
-  "outputDirectory": "pet-two",
-  "installCommand": "",
-  "buildCommand": "",
-  "framework": null
+  "outputDirectory": "pet-two"
 }
