@@ -2,11 +2,5 @@
   "outputDirectory": "pet-two",
   "installCommand": "",
   "buildCommand": "",
-  "framework": null,
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "framework": null
 }
